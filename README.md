@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+| [1189-maximum-number-of-balloons](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
