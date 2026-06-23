@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -46,5 +47,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
