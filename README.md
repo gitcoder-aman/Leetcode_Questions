@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
