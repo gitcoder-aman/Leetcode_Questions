@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0493-reverse-pairs](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
 | [0560-subarray-sum-equals-k](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -48,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
+| [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Design
 |  |
