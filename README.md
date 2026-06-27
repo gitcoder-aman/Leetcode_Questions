@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1189-maximum-number-of-balloons) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Counting
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
