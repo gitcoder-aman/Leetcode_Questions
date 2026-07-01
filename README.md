@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0076-minimum-window-substring) |
 | [0678-valid-parenthesis-string](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1189-maximum-number-of-balloons) |
+| [1332-remove-palindromic-subsequences](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [1332-remove-palindromic-subsequences](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1332-remove-palindromic-subsequences) |
 <!---LeetCode Topics End-->
