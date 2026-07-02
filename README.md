@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1332-remove-palindromic-subsequences](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1332-remove-palindromic-subsequences) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
