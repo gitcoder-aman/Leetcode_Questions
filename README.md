@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0493-reverse-pairs](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0561-array-partition) |
 | [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0561-array-partition) |
 | [0678-valid-parenthesis-string](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0507-perfect-number) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
