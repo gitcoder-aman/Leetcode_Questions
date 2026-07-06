@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [1288-remove-covered-intervals](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0561-array-partition) |
+| [1288-remove-covered-intervals](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1288-remove-covered-intervals) |
 ## Counting Sort
 |  |
 | ------- |
