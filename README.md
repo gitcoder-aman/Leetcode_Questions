@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0507-perfect-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
 | ------- |
