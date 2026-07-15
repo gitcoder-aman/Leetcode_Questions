@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0507-perfect-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Sorting
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0561-array-partition) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
