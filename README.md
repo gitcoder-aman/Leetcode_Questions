@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Counting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0493-reverse-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -146,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
