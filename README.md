@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0680-valid-palindrome-ii](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1332-remove-palindromic-subsequences) |
 ## Math
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
