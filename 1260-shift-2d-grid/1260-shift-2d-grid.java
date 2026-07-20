@@ -3,8 +3,6 @@ class Solution {
         
         List<List<Integer>>ans = new ArrayList<>();
         int[][] mat = new int[grid.length][grid[0].length];
-        System.out.println(grid.length);
-        System.out.println(grid[0].length);
 
         for(int i = 0; i < k; i++){
 
