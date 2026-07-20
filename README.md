@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [1260-shift-2d-grid](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1288-remove-covered-intervals) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1260-shift-2d-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
