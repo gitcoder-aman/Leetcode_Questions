@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0706-design-hashmap) |
 | [0930-binary-subarrays-with-sum](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1189-maximum-number-of-balloons) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0092-reverse-linked-list-ii) |
+| [0705-design-hashset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0706-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
@@ -190,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
