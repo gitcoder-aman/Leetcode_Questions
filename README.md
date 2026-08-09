@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0493-reverse-pairs) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0086-partition-list) |
+| [0287-find-the-duplicate-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0680-valid-palindrome-ii](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0680-valid-palindrome-ii) |
 | [1332-remove-palindromic-subsequences](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/1332-remove-palindromic-subsequences) |
 ## Math
@@ -198,4 +201,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0706-design-hashmap) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
