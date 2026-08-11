@@ -12,7 +12,6 @@ class Solution {
                 sum += nums[i];
             }
         }
-        System.out.println(idx);
         for(int i = idx; i < nums.length; i++){
             if(nums[i] == sum){
                 sum = sum + 1;
