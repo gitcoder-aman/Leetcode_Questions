@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0086-partition-list) |
 | [0287-find-the-duplicate-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
