@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0031-next-permutation) |
+| [0118-pascals-triangle](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0303-range-sum-query-immutable) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0118-pascals-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/0678-valid-parenthesis-string) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gitcoder-aman/Leetcode_Questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Backtracking
